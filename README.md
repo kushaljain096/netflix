@@ -1,44 +1,18 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+# NETFLIX CLONE
+This is a Netflix Clone webApp built using Javascript, React, Redux and Firebase. This Project is deployed here -https://netflix-build-f1215.web.app/
 
-## Available Scripts
+## HOW TO RUN
+1. Clone this repo to your machine locally.
+2. Install the dependencies using npm install and yarn install commands.
+3. Generate a firebase configs.
+4. Paste the configs into firebase-example.js and rename the file to firebase.js.
+5. Generate a TMDB API Key by registering here-https://www.themoviedb.org/
+6. Paste the TMDB API Key in .env-example and rename the file to .env.
+7. Use command npm start to start the server on localhost:3000 
 
-In the project directory, you can run:
+### SCREENSHOTS
 
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<img width="1437" alt="Screenshot 2021-12-13 at 3 27 29 PM" src="https://user-images.githubusercontent.com/80622749/145791536-f21f0987-8e18-4bf1-b8c0-148031c3aa5a.png">
+<img width="1440" alt="Screenshot 2021-12-13 at 3 30 14 PM" src="https://user-images.githubusercontent.com/80622749/145791611-b946dad3-3c60-42df-91ad-50c4723c8ae7.png">
+<img width="1440" alt="Screenshot 2021-12-13 at 3 29 48 PM" src="https://user-images.githubusercontent.com/80622749/145791635-64f34736-149d-4823-a854-7b751e58e972.png">
+<img width="1438" alt="Screenshot 2021-12-13 at 3 30 37 PM" src="https://user-images.githubusercontent.com/80622749/145791642-579e5b36-b9de-40ee-bad2-ca3253962e00.png">
